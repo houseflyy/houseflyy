@@ -10,9 +10,8 @@
 - 🐣 GitHub beginner
 - 💻 Learning how to build my own website
 - 📚 Currently learning:
-  - Markdown
+  - Product manager
   - GitHub
-  - HTML / CSS / JavaScript
 - ⚡ Goal:
   - Build a personal website
   - Upload my projects step by step
